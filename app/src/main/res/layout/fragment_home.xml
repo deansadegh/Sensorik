@@ -6,15 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".HomeFragment">
 
-    <TextView
-        android:id="@+id/home"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="home"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+android:layout_marginBottom="60dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.372" />
+        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

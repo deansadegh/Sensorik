@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable-v24/ic_configure.xml" value="0.175" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable-v24/ic_menu_left.xml" value="0.175" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable-v24/ic_qustion_item_button_primary.xml" value="0.175" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/botten.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/corner.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/editt.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/helf.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/drawable/ic_person.xml" value="0.1755" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/card_view_design.xml" value="0.72" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/fragment_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/fragment_splash.xml" value="0.25052083333333336" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/ic_baseline_folder_24.xml" value="0.25052083333333336" />
+        <entry key="..\:/Sensoriks/app/src/main/res/layout/switch_item.xml" value="0.22962962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -3,6 +3,7 @@ package com.example.sensorik
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.view.View.inflate
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
@@ -41,4 +42,6 @@ class MainActivity : AppCompatActivity() {
             finish()
         super.onBackPressed()
     }
+
+
 }
